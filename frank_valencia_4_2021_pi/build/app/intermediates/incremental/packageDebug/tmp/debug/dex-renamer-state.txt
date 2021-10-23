@@ -1,0 +1,4 @@
+#Sat Oct 23 16:24:42 COT 2021
+base.0=C\:\\DU\\frank_valencia_4_2021_pi\\frank_valencia_4_2021_pi\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
